@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Mr
+ *
+ */
+module CoffeeShopBillGenerator {
+}
